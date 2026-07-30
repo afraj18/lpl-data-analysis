@@ -1,0 +1,135 @@
+date,season,venue,team1,team2,winner,toss_winner,toss_decision
+['2020-11-26'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Tuskers,Colombo Kings,,Colombo Kings,field
+['2020-11-27'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Galle Gladiators,Jaffna Stallions,Jaffna Stallions,Galle Gladiators,bat
+['2020-11-28'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Dambulla Viiking,Kandy Tuskers,Dambulla Viiking,Kandy Tuskers,field
+['2020-11-28'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Colombo Kings,Galle Gladiators,Colombo Kings,Galle Gladiators,field
+['2020-11-30'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Stallions,Dambulla Viiking,Jaffna Stallions,Dambulla Viiking,field
+['2020-11-30'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Tuskers,Galle Gladiators,Kandy Tuskers,Galle Gladiators,field
+['2020-12-01'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Dambulla Viiking,Colombo Kings,Dambulla Viiking,Dambulla Viiking,bat
+['2020-12-01'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Stallions,Kandy Tuskers,Jaffna Stallions,Jaffna Stallions,bat
+['2020-12-03'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Galle Gladiators,Jaffna Stallions,Jaffna Stallions,Galle Gladiators,bat
+['2020-12-03'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Tuskers,Dambulla Viiking,Dambulla Viiking,Kandy Tuskers,bat
+['2020-12-04'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Stallions,Colombo Kings,Colombo Kings,Colombo Kings,field
+['2020-12-05'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Dambulla Viiking,Galle Gladiators,Dambulla Viiking,Dambulla Viiking,bat
+['2020-12-05'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Tuskers,Colombo Kings,Colombo Kings,Kandy Tuskers,bat
+['2020-12-07'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Colombo Kings,Galle Gladiators,Galle Gladiators,Colombo Kings,bat
+['2020-12-07'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Dambulla Viiking,Jaffna Stallions,,Jaffna Stallions,field
+['2020-12-09'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Stallions,Kandy Tuskers,Kandy Tuskers,Jaffna Stallions,bat
+['2020-12-09'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Galle Gladiators,Dambulla Viiking,Dambulla Viiking,Dambulla Viiking,field
+['2020-12-10'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Colombo Kings,Jaffna Stallions,Colombo Kings,Jaffna Stallions,field
+['2020-12-10'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Tuskers,Galle Gladiators,Galle Gladiators,Galle Gladiators,field
+['2020-12-11'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Dambulla Viiking,Colombo Kings,Colombo Kings,Colombo Kings,field
+['2020-12-13'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Colombo Kings,Galle Gladiators,Galle Gladiators,Galle Gladiators,field
+['2020-12-14'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Stallions,Dambulla Viiking,Jaffna Stallions,Dambulla Viiking,field
+['2020-12-16'],2020/21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Stallions,Galle Gladiators,Jaffna Stallions,Jaffna Stallions,bat
+['2021-12-05'],2021/22,"R Premadasa Stadium, Colombo",Galle Gladiators,Jaffna Kings,Galle Gladiators,Jaffna Kings,field
+['2021-12-06'],2021/22,"R Premadasa Stadium, Colombo",Dambulla Giants,Kandy Warriors,Dambulla Giants,Dambulla Giants,bat
+['2021-12-06'],2021/22,"R Premadasa Stadium, Colombo",Galle Gladiators,Colombo Stars,Colombo Stars,Galle Gladiators,bat
+['2021-12-07'],2021/22,"R Premadasa Stadium, Colombo",Dambulla Giants,Jaffna Kings,Jaffna Kings,Dambulla Giants,bat
+['2021-12-07'],2021/22,"R Premadasa Stadium, Colombo",Kandy Warriors,Galle Gladiators,Galle Gladiators,Kandy Warriors,bat
+['2021-12-08'],2021/22,"R Premadasa Stadium, Colombo",Dambulla Giants,Colombo Stars,Dambulla Giants,Dambulla Giants,bat
+['2021-12-08'],2021/22,"R Premadasa Stadium, Colombo",Jaffna Kings,Kandy Warriors,Jaffna Kings,Kandy Warriors,field
+['2021-12-10'],2021/22,"R Premadasa Stadium, Colombo",Dambulla Giants,Galle Gladiators,,Dambulla Giants,bat
+['2021-12-10'],2021/22,"R Premadasa Stadium, Colombo",Jaffna Kings,Colombo Stars,Jaffna Kings,Colombo Stars,field
+['2021-12-11'],2021/22,"R Premadasa Stadium, Colombo",Galle Gladiators,Kandy Warriors,Kandy Warriors,Galle Gladiators,bat
+['2021-12-11'],2021/22,"R Premadasa Stadium, Colombo",Dambulla Giants,Colombo Stars,Dambulla Giants,Dambulla Giants,bat
+['2021-12-12'],2021/22,"R Premadasa Stadium, Colombo",Kandy Warriors,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2021-12-12'],2021/22,"R Premadasa Stadium, Colombo",Colombo Stars,Galle Gladiators,Colombo Stars,Colombo Stars,bat
+['2021-12-13'],2021/22,"R Premadasa Stadium, Colombo",Dambulla Giants,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2021-12-14'],2021/22,"R Premadasa Stadium, Colombo",Kandy Warriors,Colombo Stars,Colombo Stars,Colombo Stars,field
+['2021-12-14'],2021/22,"R Premadasa Stadium, Colombo",Galle Gladiators,Dambulla Giants,Galle Gladiators,Dambulla Giants,field
+['2021-12-16'],2021/22,"R Premadasa Stadium, Colombo",Jaffna Kings,Colombo Stars,Jaffna Kings,Jaffna Kings,bat
+['2021-12-16'],2021/22,"R Premadasa Stadium, Colombo",Dambulla Giants,Kandy Warriors,Kandy Warriors,Dambulla Giants,bat
+['2021-12-17'],2021/22,"R Premadasa Stadium, Colombo",Galle Gladiators,Jaffna Kings,Galle Gladiators,Galle Gladiators,bat
+['2021-12-17'],2021/22,"R Premadasa Stadium, Colombo",Colombo Stars,Kandy Warriors,Colombo Stars,Kandy Warriors,field
+['2021-12-19'],2021/22,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Colombo Stars,Dambulla Giants,Dambulla Giants,Colombo Stars,bat
+['2021-12-19'],2021/22,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Galle Gladiators,Jaffna Kings,Galle Gladiators,Jaffna Kings,field
+['2021-12-21'],2021/22,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Kings,Dambulla Giants,Jaffna Kings,Dambulla Giants,field
+['2021-12-23'],2021/22,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Kings,Galle Gladiators,Jaffna Kings,Jaffna Kings,bat
+['2022-12-06'],2022/23,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Kings,Galle Gladiators,Jaffna Kings,Galle Gladiators,field
+['2022-12-06'],2022/23,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Falcons,Colombo Stars,Kandy Falcons,Colombo Stars,field
+['2022-12-07'],2022/23,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Dambulla Aura,Jaffna Kings,Jaffna Kings,Dambulla Aura,bat
+['2022-12-07'],2022/23,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Galle Gladiators,Kandy Falcons,Kandy Falcons,Galle Gladiators,bat
+['2022-12-08'],2022/23,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Colombo Stars,Dambulla Aura,Colombo Stars,Colombo Stars,bat
+['2022-12-10'],2022/23,Pallekele International Cricket Stadium,Jaffna Kings,Kandy Falcons,Kandy Falcons,Kandy Falcons,field
+['2022-12-11'],2022/23,Pallekele International Cricket Stadium,Galle Gladiators,Colombo Stars,Galle Gladiators,Galle Gladiators,bat
+['2022-12-11'],2022/23,Pallekele International Cricket Stadium,Jaffna Kings,Dambulla Aura,Jaffna Kings,Dambulla Aura,field
+['2022-12-12'],2022/23,Pallekele International Cricket Stadium,Galle Gladiators,Kandy Falcons,Galle Gladiators,Galle Gladiators,bat
+['2022-12-12'],2022/23,Pallekele International Cricket Stadium,Jaffna Kings,Colombo Stars,Jaffna Kings,Colombo Stars,field
+['2022-12-13'],2022/23,Pallekele International Cricket Stadium,Kandy Falcons,Dambulla Aura,Kandy Falcons,Kandy Falcons,bat
+['2022-12-13'],2022/23,Pallekele International Cricket Stadium,Galle Gladiators,Colombo Stars,Colombo Stars,Colombo Stars,field
+['2022-12-14'],2022/23,Pallekele International Cricket Stadium,Kandy Falcons,Jaffna Kings,Kandy Falcons,Kandy Falcons,bat
+['2022-12-14'],2022/23,Pallekele International Cricket Stadium,Dambulla Aura,Colombo Stars,Colombo Stars,Colombo Stars,field
+['2022-12-17'],2022/23,"R Premadasa Stadium, Colombo",Dambulla Aura,Galle Gladiators,Dambulla Aura,Dambulla Aura,bat
+['2022-12-17'],2022/23,"R Premadasa Stadium, Colombo",Colombo Stars,Kandy Falcons,Kandy Falcons,Colombo Stars,bat
+['2022-12-18'],2022/23,"R Premadasa Stadium, Colombo",Jaffna Kings,Galle Gladiators,Jaffna Kings,Jaffna Kings,bat
+['2022-12-18'],2022/23,"R Premadasa Stadium, Colombo",Kandy Falcons,Dambulla Aura,Kandy Falcons,Kandy Falcons,bat
+['2022-12-19'],2022/23,"R Premadasa Stadium, Colombo",Colombo Stars,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2022-12-19'],2022/23,"R Premadasa Stadium, Colombo",Galle Gladiators,Dambulla Aura,Dambulla Aura,Galle Gladiators,bat
+['2022-12-21'],2022/23,"R Premadasa Stadium, Colombo",Kandy Falcons,Jaffna Kings,Jaffna Kings,Kandy Falcons,bat
+['2022-12-21'],2022/23,"R Premadasa Stadium, Colombo",Galle Gladiators,Colombo Stars,Colombo Stars,Colombo Stars,field
+['2022-12-22'],2022/23,"R Premadasa Stadium, Colombo",Kandy Falcons,Colombo Stars,Colombo Stars,Colombo Stars,field
+['2022-12-23'],2022/23,"R Premadasa Stadium, Colombo",Colombo Stars,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2023-07-30'],2023,"R Premadasa Stadium, Colombo",Jaffna Kings,Colombo Strikers,Jaffna Kings,Colombo Strikers,field
+['2023-07-31'],2023,"R Premadasa Stadium, Colombo",Galle Titans,Dambulla Aura,,Dambulla Aura,field
+['2023-07-31'],2023,"R Premadasa Stadium, Colombo",Colombo Strikers,B-Love Kandy,Colombo Strikers,Colombo Strikers,bat
+['2023-08-01'],2023,"R Premadasa Stadium, Colombo",Jaffna Kings,Dambulla Aura,Dambulla Aura,Jaffna Kings,bat
+['2023-08-01'],2023,"R Premadasa Stadium, Colombo",Galle Titans,B-Love Kandy,Galle Titans,Galle Titans,bat
+['2023-08-04'],2023,Pallekele International Cricket Stadium,Dambulla Aura,B-Love Kandy,B-Love Kandy,Dambulla Aura,bat
+['2023-08-04'],2023,Pallekele International Cricket Stadium,Galle Titans,Jaffna Kings,Jaffna Kings,Galle Titans,bat
+['2023-08-05'],2023,Pallekele International Cricket Stadium,Dambulla Aura,Colombo Strikers,Dambulla Aura,Colombo Strikers,field
+['2023-08-05'],2023,Pallekele International Cricket Stadium,Jaffna Kings,B-Love Kandy,B-Love Kandy,B-Love Kandy,field
+['2023-08-07'],2023,Pallekele International Cricket Stadium,Galle Titans,Colombo Strikers,Colombo Strikers,Colombo Strikers,field
+['2023-08-07'],2023,Pallekele International Cricket Stadium,Dambulla Aura,Jaffna Kings,Dambulla Aura,Jaffna Kings,field
+['2023-08-08'],2023,Pallekele International Cricket Stadium,B-Love Kandy,Galle Titans,B-Love Kandy,Galle Titans,field
+['2023-08-08'],2023,Pallekele International Cricket Stadium,Colombo Strikers,Jaffna Kings,Jaffna Kings,Colombo Strikers,bat
+['2023-08-11'],2023,"R Premadasa Stadium, Colombo",Galle Titans,Dambulla Aura,Dambulla Aura,Dambulla Aura,field
+['2023-08-12'],2023,"R Premadasa Stadium, Colombo",B-Love Kandy,Jaffna Kings,B-Love Kandy,B-Love Kandy,bat
+['2023-08-12'],2023,"R Premadasa Stadium, Colombo",Dambulla Aura,Colombo Strikers,Dambulla Aura,Dambulla Aura,bat
+['2023-08-13'],2023,"R Premadasa Stadium, Colombo",Jaffna Kings,Galle Titans,Galle Titans,Jaffna Kings,bat
+['2023-08-13'],2023,"R Premadasa Stadium, Colombo",Colombo Strikers,B-Love Kandy,Colombo Strikers,Colombo Strikers,bat
+['2023-08-14'],2023,"R Premadasa Stadium, Colombo",Dambulla Aura,B-Love Kandy,Dambulla Aura,B-Love Kandy,field
+['2023-08-15'],2023,"R Premadasa Stadium, Colombo",Colombo Strikers,Galle Titans,Galle Titans,Galle Titans,field
+['2023-08-17'],2023,"R Premadasa Stadium, Colombo",Galle Titans,Dambulla Aura,Dambulla Aura,Dambulla Aura,field
+['2023-08-17'],2023,"R Premadasa Stadium, Colombo",B-Love Kandy,Jaffna Kings,B-Love Kandy,Jaffna Kings,field
+['2023-08-19'],2023,"R Premadasa Stadium, Colombo",B-Love Kandy,Galle Titans,B-Love Kandy,B-Love Kandy,bat
+['2023-08-20'],2023,"R Premadasa Stadium, Colombo",Dambulla Aura,B-Love Kandy,B-Love Kandy,Dambulla Aura,bat
+['2024-07-01'],2024,Pallekele International Cricket Stadium,Dambulla Sixers,Kandy Falcons,Kandy Falcons,Kandy Falcons,field
+['2024-07-02'],2024,Pallekele International Cricket Stadium,Jaffna Kings,Galle Marvels,Galle Marvels,Jaffna Kings,bat
+['2024-07-02'],2024,Pallekele International Cricket Stadium,Colombo Strikers,Kandy Falcons,Colombo Strikers,Kandy Falcons,field
+['2024-07-03'],2024,Pallekele International Cricket Stadium,Dambulla Sixers,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2024-07-03'],2024,Pallekele International Cricket Stadium,Galle Marvels,Colombo Strikers,Galle Marvels,Colombo Strikers,field
+['2024-07-05'],2024,Rangiri Dambulla International Stadium,Galle Marvels,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2024-07-06'],2024,Rangiri Dambulla International Stadium,Colombo Strikers,Kandy Falcons,Colombo Strikers,Kandy Falcons,field
+['2024-07-06'],2024,Rangiri Dambulla International Stadium,Jaffna Kings,Dambulla Sixers,Jaffna Kings,Dambulla Sixers,field
+['2024-07-07'],2024,Rangiri Dambulla International Stadium,Kandy Falcons,Galle Marvels,Galle Marvels,Galle Marvels,field
+['2024-07-07'],2024,Rangiri Dambulla International Stadium,Colombo Strikers,Dambulla Sixers,Dambulla Sixers,Dambulla Sixers,field
+['2024-07-09'],2024,Rangiri Dambulla International Stadium,Jaffna Kings,Kandy Falcons,Kandy Falcons,Kandy Falcons,field
+['2024-07-09'],2024,Rangiri Dambulla International Stadium,Dambulla Sixers,Galle Marvels,Dambulla Sixers,Galle Marvels,field
+['2024-07-10'],2024,Rangiri Dambulla International Stadium,Colombo Strikers,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2024-07-10'],2024,Rangiri Dambulla International Stadium,Kandy Falcons,Galle Marvels,Galle Marvels,Galle Marvels,field
+['2024-07-13'],2024,"R Premadasa Stadium, Colombo",Kandy Falcons,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2024-07-14'],2024,"R Premadasa Stadium, Colombo",Galle Marvels,Dambulla Sixers,,Dambulla Sixers,field
+['2024-07-14'],2024,"R Premadasa Stadium, Colombo",Jaffna Kings,Colombo Strikers,Colombo Strikers,Colombo Strikers,field
+['2024-07-15'],2024,"R Premadasa Stadium, Colombo",Kandy Falcons,Dambulla Sixers,Kandy Falcons,Dambulla Sixers,field
+['2024-07-15'],2024,"R Premadasa Stadium, Colombo",Galle Marvels,Colombo Strikers,Colombo Strikers,Colombo Strikers,field
+['2024-07-16'],2024,"R Premadasa Stadium, Colombo",Dambulla Sixers,Colombo Strikers,Dambulla Sixers,Colombo Strikers,field
+['2024-07-18'],2024,"R Premadasa Stadium, Colombo",Jaffna Kings,Galle Marvels,Galle Marvels,Galle Marvels,field
+['2024-07-18'],2024,"R Premadasa Stadium, Colombo",Colombo Strikers,Kandy Falcons,Kandy Falcons,Kandy Falcons,field
+['2024-07-20'],2024,"R Premadasa Stadium, Colombo",Jaffna Kings,Kandy Falcons,Jaffna Kings,Kandy Falcons,field
+['2024-07-21'],2024,"R Premadasa Stadium, Colombo",Galle Marvels,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2026-07-17'],2026,"Sinhalese Sports Club Ground, Colombo",Galle Gallants,Jaffna Kings,Galle Gallants,Jaffna Kings,field
+['2026-07-18'],2026,"Sinhalese Sports Club Ground, Colombo",Dambulla Sixers,Kandy Royals,Dambulla Sixers,Dambulla Sixers,bat
+['2026-07-18'],2026,"Sinhalese Sports Club Ground, Colombo",Colombo Kaps,Galle Gallants,Galle Gallants,Galle Gallants,field
+['2026-07-19'],2026,"Sinhalese Sports Club Ground, Colombo",Dambulla Sixers,Jaffna Kings,Jaffna Kings,Jaffna Kings,field
+['2026-07-19'],2026,"Sinhalese Sports Club Ground, Colombo",Kandy Royals,Colombo Kaps,Colombo Kaps,Colombo Kaps,field
+['2026-07-21'],2026,Rangiri Dambulla International Stadium,Kandy Royals,Dambulla Sixers,Kandy Royals,Dambulla Sixers,field
+['2026-07-22'],2026,Rangiri Dambulla International Stadium,Jaffna Kings,Colombo Kaps,Jaffna Kings,Colombo Kaps,field
+['2026-07-22'],2026,Rangiri Dambulla International Stadium,Galle Gallants,Dambulla Sixers,Dambulla Sixers,Dambulla Sixers,field
+['2026-07-23'],2026,Rangiri Dambulla International Stadium,Colombo Kaps,Kandy Royals,Colombo Kaps,Kandy Royals,field
+['2026-07-23'],2026,Rangiri Dambulla International Stadium,Galle Gallants,Jaffna Kings,Galle Gallants,Jaffna Kings,field
+['2026-07-25'],2026,Rangiri Dambulla International Stadium,Kandy Royals,Galle Gallants,Kandy Royals,Galle Gallants,field
+['2026-07-25'],2026,Rangiri Dambulla International Stadium,Colombo Kaps,Dambulla Sixers,Colombo Kaps,Dambulla Sixers,field
+['2026-07-26'],2026,Rangiri Dambulla International Stadium,Jaffna Kings,Kandy Royals,Jaffna Kings,Jaffna Kings,bat
+['2026-07-26'],2026,Rangiri Dambulla International Stadium,Galle Gallants,Dambulla Sixers,Galle Gallants,Galle Gallants,bat
+['2026-07-28'],2026,Pallekele International Cricket Stadium,Jaffna Kings,Colombo Kaps,Jaffna Kings,Colombo Kaps,field
